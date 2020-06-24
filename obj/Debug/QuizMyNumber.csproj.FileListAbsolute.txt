@@ -1,0 +1,17 @@
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\bin\Debug\QuizMyNumber.exe.config
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\bin\Debug\QuizMyNumber.exe
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\bin\Debug\QuizMyNumber.pdb
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\QuizMyNumber.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\MainWindow.g.cs
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\WindowNewName.g.cs
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\App.g.cs
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\QuizMyNumber_MarkupCompile.cache
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\QuizMyNumber_MarkupCompile.lref
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\MainWindow.baml
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\WindowNewName.baml
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\QuizMyNumber.g.resources
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\QuizMyNumber.Properties.Resources.resources
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\QuizMyNumber.csproj.GenerateResource.cache
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\QuizMyNumber.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\QuizMyNumber.exe
+C:\Users\bogda\source\repos\QuizMyNumber\QuizMyNumber\obj\Debug\QuizMyNumber.pdb
